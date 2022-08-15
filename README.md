@@ -6,7 +6,7 @@
 ### <div align="center">I'm Trần Minh Châu👋</div>  
   
 
-- 🌱 I’m currently learning Java with OOP and Python  
+- 🌱 I’m currently learning Python and OOP with Java  
   
 
 - ⚡ Fun fact: I'm a Eskaylation. Call me martiuss23 😊  
