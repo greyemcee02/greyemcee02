@@ -81,11 +81,7 @@
 ## Recent Blog Posts  
   
 
-<br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31v3vha3loilwlj47vs6pkoixx4u&cover_image=true&theme=compact" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=martiuss23&&style=flat-square" align="center" />
