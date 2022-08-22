@@ -3,12 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Trần Minh Châu👋</div>  
+### <div align="center">Hi There👋</div>  
   
-
-- 🌱 I’m currently learning Python and OOP with Java  
-  
-
 - ⚡ Fun fact: I'm a Eskaylation. Call me martiuss23 😊  
   
 
